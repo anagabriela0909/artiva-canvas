@@ -1,27 +1,5 @@
 # Artiva Canvas
 
-Crie o software desktop “Artiva”, uma aplicação desenvolvida em JAVA utilizando JAVA FX.
-
-IMPORTANTE:
-
-Este projeto NÃO deve ser uma página web.
-
-Não utilizar HTML, CSS, React, Next.js, Vue ou qualquer tecnologia web.
-
-O objetivo é criar um SOFTWARE DE COMPUTADOR executável localmente, onde ao executar a classe principal Java a aplicação abra diretamente a interface gráfica do Artiva.
-
-A aplicação deve ser desenvolvida pensando em um trabalho acadêmico de Programação Orientada a Objetos.
-
-Tecnologias obrigatórias:
-
-- Java
-
-- JavaFX
-
-A interface visual deve ser moderna, sofisticada e manter a estética de uma plataforma digital de arte, mas implementada como aplicação desktop.
-
----
-
 ## CONCEITO DO SOFTWARE
 
 Artiva é um software de exploração e aprendizado sobre pintura e arte.
